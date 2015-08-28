@@ -1,0 +1,14 @@
+{
+  "title": "Copy Page URL",
+  "name": "copypageurl",
+  "version": "0.0.1",
+  "description": "Copy current page URL",
+  "main": "index.js",
+  "permissions": {"private-browsing": true},
+  "author": "Romain B.",
+  "engines": {
+    "firefox": ">=38.0a1",
+    "fennec": ">=38.0a1"
+  },
+  "license": "GPL-2.0"
+}
