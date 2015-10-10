@@ -1,7 +1,7 @@
 {
   "title": "Copy Page URL",
   "name": "copypageurl",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Copy current page URL",
   "main": "index.js",
   "permissions": {"private-browsing": true},
